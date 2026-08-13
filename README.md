@@ -1,4 +1,4 @@
-Senior software engineer currently based in Charlotte, NC. I build accessible, scalable web applications - currently leading design system architecture at Premier Inc.
+Senior software engineer currently based in Charlotte, NC. I build accessible, scalable web applications - currently leading front end development and design system architecture at Premier Inc.
  
 - **Now:** Design systems, React + TypeScript, and accessibility standards across a multi-product healthcare platform
 - **Before:** Bank of America, Capital One, First Citizens Bank, and TGL / TMRW Sports

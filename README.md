@@ -10,9 +10,9 @@ Senior software engineer currently based in Charlotte, NC. I build accessible, s
  
 | Project | What it is | Stack |
 |---|---|---|
-| **[Bijou Repo](https://github.com/kyleholliday/movie-app)** · [live](https://bijou-movies.com) | Movie and TV database — browse now-playing and upcoming films, trending shows, and actor/director pages | React, TypeScript, SASS |
-| **[Spotify Connected App Repo](https://github.com/kyleholliday/spotify-app-march-2024)** | Full-stack app using the Spotify Web API — OAuth flow, Express server, playlist and top-track views | React, Node, Express, Heroku |
-| **[Portfolio Repo](https://github.com/kyleholliday/portfolio2024)** · [live](https://www.kyleholliday.com) | Personal site with light/dark theming, deployed continuously from GitHub | React, TypeScript, Tailwind, Netlify |
+| **[Bijou Repo](https://github.com/kyleholliday/bijou)** · [live](https://bijou-movies.com) | Movie and TV database — browse now-playing and upcoming films, trending shows, and actor/director pages | React, TypeScript, SASS |
+| **[Spotify Connected App Repo](https://github.com/kyleholliday/spotify-application)** | Full-stack app using the Spotify Web API — OAuth flow, Express server, playlist and top-track views | React, Node, Express, Heroku |
+| **[Portfolio Repo](https://github.com/kyleholliday/portfolio-page)** · [live](https://www.kyleholliday.com) | Personal site with light/dark theming, deployed continuously from GitHub | React, TypeScript, Tailwind, Netlify |
 | **[Blog Repo](https://github.com/kyleholliday/blog)** | Simple, deployable blog framework | Next.js, Netlify |
  
 ---
